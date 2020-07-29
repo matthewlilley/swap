@@ -1,6 +1,6 @@
 # Swap
 
-Swap two array elements in memory
+A very magical swap function for JavaScript.
 
 ## Licence
 
